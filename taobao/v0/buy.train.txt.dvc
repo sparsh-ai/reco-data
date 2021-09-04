@@ -1,0 +1,4 @@
+outs:
+- md5: 7dbbe4a61ad94ebc94612566f6678094
+  size: 2425047
+  path: buy.train.txt
