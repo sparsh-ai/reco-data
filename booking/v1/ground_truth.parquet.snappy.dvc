@@ -1,0 +1,4 @@
+outs:
+- md5: 50c7da9b17973d816d85baf015d178ee
+  size: 928175
+  path: ground_truth.parquet.snappy

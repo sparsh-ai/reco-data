@@ -1,0 +1,4 @@
+/ground_truth.parquet.snappy
+/submission.parquet.snappy
+/test.parquet.snappy
+/train.parquet.snappy
