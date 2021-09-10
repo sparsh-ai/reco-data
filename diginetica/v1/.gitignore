@@ -1,0 +1,7 @@
+/product-categories.parquet.snappy
+/products.parquet.snappy
+/train-clicks.parquet.snappy
+/train-item-views.parquet.snappy
+/train-purchases.parquet.snappy
+/train-queries.parquet.snappy
+/valid-solution.parquet.snappy
